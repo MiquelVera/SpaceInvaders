@@ -1,6 +1,6 @@
-# SpaceInvaders
+# Space Invaders
 
-Space Invaders game recreation on terminal.
+Space Invaders game recreation on terminal.<br>
 Developed fully in Java.
 
 <i>
